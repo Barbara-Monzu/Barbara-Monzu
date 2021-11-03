@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Barbara-Monzu
+- 👀 I’m interested in Full Stack Web Developer
+- 🌱 I’m currently studying at ironhack Madrid
