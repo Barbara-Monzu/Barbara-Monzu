@@ -1,12 +1,13 @@
-Hi! I'm a front end developer
+# Hi! I'm a front end developer
 
-👩‍💻 Web Development Bootcamp Alumni @Ironhack
+###### 👩‍💻 Web Development Bootcamp Alumni @Ironhack
 
-🎓 Bachelor in Dramatic Art (RESAD)
+###### 🎓 Bachelor in Dramatic Art (RESAD)
 
-💻 Technology enthusiast
+###### 💻 Technology enthusiast
 
-📚 Technologies:
+## 📚 Technologies:
+
 
 HTML
 
@@ -25,10 +26,9 @@ Express
 MongoDB
 
 
-🌻 Currently learning French
-
-✨ Some of my hobbies are writting songs and sing
+###### 🌻 Currently learning French
 
 
-Get in touch
-🔗 LinkedIn
+###### ✨ Some of my hobbies are writting songs and sing
+
+###### 🔗 LinkedIn
