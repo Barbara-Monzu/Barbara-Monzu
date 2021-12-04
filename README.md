@@ -8,13 +8,13 @@ Hi! I'm a front end developer
 
 📚 Technologies:
 
-HTML
-CSS
-Javascript
-Bootstrap
-React
-Node.js
-Express
+HTML,
+CSS,
+Javascript,
+Bootstrap,
+React,
+Node.js,
+Express,
 MongoDB
 
 
