@@ -6,26 +6,26 @@
 
 ###### 💻 Technology enthusiast
 
-###### [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-monz%C3%BA-608b211a7/)
+###### Bárbara Monzú [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-monz%C3%BA-608b211a7/) 
 
 ## 📚 Technologies:
 
 
-HTML
+* HTML
 
-CSS
+* CSS
 
-Javascript
+* Javascript
 
-Bootstrap
+* Bootstrap
 
-React
+* React
 
-Node.js
+* Node.js
 
-Express
+* Express
 
-MongoDB
+* MongoDB
 
 
 
