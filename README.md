@@ -9,7 +9,9 @@ Hi! I'm a front end developer
 📚 Technologies:
 
 HTML,
+
 CSS,
+
 Javascript,
 Bootstrap,
 React,
