@@ -31,4 +31,4 @@ MongoDB
 
 ###### ✨ Some of my hobbies are writting songs and sing
 
-###### 🔗 LinkedIn
+###### 🔗 [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-monz%C3%BA-608b211a7/)
