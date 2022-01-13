@@ -1,4 +1,4 @@
-# Hi! I'm a front end developer
+# Hi! I'm a full stack developer
 
 ###### 👩‍💻 Web Development Bootcamp Alumni @Ironhack
 
@@ -19,7 +19,11 @@
 
 * Bootstrap
 
+* Tailwindcss
+
 * React
+
+* Next.js
 
 * Node.js
 
