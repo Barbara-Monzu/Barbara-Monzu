@@ -1,23 +1,19 @@
-# Hi! I'm a full stack developer
+# Hi! I'm Bárbara, Fullstack Developer ! 👋
 
-###### 👩‍💻 Web Development Bootcamp Alumni @Ironhack
+###### 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-monz%C3%BA-608b211a7/) 
 
-###### 🎓 Bachelor in Dramatic Art (RESAD)
+### My personal proyects!
 
-###### 💻 Technology enthusiast
+- miénteme: [Demo](https://github.com/Barbara-Monzu/mienteme) - [GitHub](https://github.com/Barbara-Monzu/mienteme)
+- Blackjack: [Demo](https://fernandocardona.github.io/IronHack_Black_Jack_Project/) - [GitHub](https://github.com/Barbara-Monzu/black-jack)
 
-###### Bárbara Monzú [LinkedIn](https://www.linkedin.com/in/b%C3%A1rbara-monz%C3%BA-608b211a7/) 
+## I’m currently working on ... 
+
+- [SOAMEE](https://soamee.com/)
 
 ## 📚 Technologies:
 
-
-* HTML
-
-* CSS
-
 * Javascript
-
-* Bootstrap
 
 * Tailwindcss
 
@@ -31,6 +27,8 @@
 
 * MongoDB
 
+## Curiosities
 
+- 🎤 Jeidi Mel [Music Proyect](https://www.youtube.com/channel/UCTGi9hOdZMJUesc0s86lkOw)
 
 
