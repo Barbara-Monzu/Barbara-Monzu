@@ -8,9 +8,10 @@
 - Blackjack: [Demo](https://fernandocardona.github.io/IronHack_Black_Jack_Project/) - [GitHub](https://github.com/Barbara-Monzu/black-jack)
 - Mel-Phones: [GitHub](https://github.com/Barbara-Monzu/Soamee)
 
-## I’m currently working on ... 
+## I have worked ... 
 
 - [SOAMEE](https://soamee.com/)
+- [CHANNABLE](https://www.channable.com/)
 
 ## Curiosity
 
